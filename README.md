@@ -1,7 +1,7 @@
 # Webscraping com pandas
 
 [![YT](https://i.ytimg.com/vi/UMKEiy7EGLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=UMKEiy7EGLE)
-[https://www.youtube.com/watch?v=sUAxys08d48]()
+[https://www.youtube.com/watch?v=UMKEiy7EGLE]()
 
 Descrição: Neste vídeo, vamos explorar o mundo do web scraping e entender como essa técnica se tornou essencial na coleta de dados da web. Além disso, vamos destacar como a biblioteca Pandas desempenha um papel fundamental na análise e manipulação desses dados extraídos.
 
